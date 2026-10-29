@@ -1,0 +1,10 @@
+SAMPLE PROGRAM OUTPUT
+=====================
+Example console run. For interactive programs, your output depends on the input you enter.
+
+$ python hill_climbing.py
+Enter starting value: 0
+Enter step size: 1
+Enter maximum iterations: 20
+Best position = 5.0
+Maximum value = 100.0
